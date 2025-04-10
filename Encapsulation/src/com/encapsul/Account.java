@@ -11,7 +11,6 @@ public class Account {
 
 	public void setAccountNo(int accountNo) {
 		this.accountNo = accountNo;
-		// return accountNo;
 	}
 
 	public String getAccHolder() {
